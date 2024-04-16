@@ -28,7 +28,7 @@ public class EventsCollection
             {
                 writer.WriteLine($"Title: {ev.Title}");
                 writer.WriteLine($"Time: {ev.Time}");
-                writer.WriteLine($"Location: {ev.Location}");
+                writer.WriteLine($"Locatin: {ev.Location}");
                 writer.WriteLine();
             }
         }
